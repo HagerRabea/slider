@@ -26,6 +26,7 @@ section{
 #smallBox{
     background-image: url(../images/portfolio-3.jpg);
     background-size: 100% 100%;
+    
     position: relative;
     padding: 0 20px;
 }
